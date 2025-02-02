@@ -52,5 +52,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-_ == '__main__':
-    main()
